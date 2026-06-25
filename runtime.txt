@@ -1,7 +1,0 @@
-cd d:\work\villa\construction_mgmt
-git init
-git add .
-git commit -m "Ready for deployment"
-git branch -M main
-git remote add origin https://github.com/AndrewEmad-A/construction-mgmt.git
-git push -u origin mainpython-3.11.7
